@@ -1,3 +1,6 @@
 COOL
 
+conflict file
+
 BIG FEATURE!
+
